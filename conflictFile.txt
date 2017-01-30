@@ -1,1 +1,3 @@
 my conflict on conflictFile.txt
+
+2nd line
